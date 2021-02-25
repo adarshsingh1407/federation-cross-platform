@@ -7,17 +7,17 @@
 
 #### Configurations covered in this
    
-Case 1: Connect Node Gateway to one SpringBoot server
+- [x] Case 1: Connect Node Gateway to one SpringBoot server
 
-Case 2: Connect Node Gateway to one Node server
+- [x] Case 2: Connect Node Gateway to one Node server
 
-Case 3: Connect Node Gateway to two SpringBoot servers - with dependency in the schema
+- [x] Case 3: Connect Node Gateway to two SpringBoot servers - with dependency in the schema
 
-Case 4: Connect Node Gateway to two Node servers - with dependency in the schema
+- [x] Case 4: Connect Node Gateway to two Node servers - with dependency in the schema
 
-Case 5: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(SpringBoot schema extends Node schema)
+- [x] Case 5: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(SpringBoot schema extends Node schema)
 
-Case 6: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(Node schema extends SpringBoot schema)
+- [x] Case 6: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(Node schema extends SpringBoot schema)
 
 ---
 
