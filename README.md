@@ -34,7 +34,7 @@ Features
 
 - [x] Connect Node Gateway to one SpringBoot server
 - [x] Connect Node Gateway to one Node server
-- [x] Connect Node Gateway to two SpringBoot servers
-- [x] Connect Node Gateway to two Node servers
-- [x] Connect Node Gateway to one SpringBoot server and one Node server with dependency in schema(SpringBoot schema extends Node schema)
-- [x] Connect Node Gateway to one SpringBoot server and one Node server with dependency in schema(Node schema extends SpringBoot schema)
+- [x] Connect Node Gateway to two SpringBoot servers - with dependency in schema
+- [x] Connect Node Gateway to two Node servers - with dependency in schema
+- [x] Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(SpringBoot schema extends Node schema)
+- [x] Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(Node schema extends SpringBoot schema)
