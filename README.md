@@ -1,6 +1,26 @@
 # federation-cross-platform
 
 
+### Starter pack for cross-platform Apollo Federation setup using SpringBoot and Node servers
+
+---
+
+#### Configurations covered in this
+   
+Case 1: Connect Node Gateway to one SpringBoot server
+
+Case 2: Connect Node Gateway to one Node server
+
+Case 3: Connect Node Gateway to two SpringBoot servers - with dependency in the schema
+
+Case 4: Connect Node Gateway to two Node servers - with dependency in the schema
+
+Case 5: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(SpringBoot schema extends Node schema)
+
+Case 6: Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(Node schema extends SpringBoot schema)
+
+---
+
 How to run?
 
 ### Requirement
@@ -30,11 +50,3 @@ Open http://localhost:4000/graphql in browser
 
 ---
 
-Features
-
-- [x] Connect Node Gateway to one SpringBoot server
-- [x] Connect Node Gateway to one Node server
-- [x] Connect Node Gateway to two SpringBoot servers - with dependency in schema
-- [x] Connect Node Gateway to two Node servers - with dependency in schema
-- [x] Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(SpringBoot schema extends Node schema)
-- [x] Connect Node Gateway to one SpringBoot server and one Node server - with dependency in schema(Node schema extends SpringBoot schema)
