@@ -8,16 +8,16 @@ const gateway = new ApolloGateway({
      */
     // {
     //   name: "springboot-product",
-    //   url: "http://dev.childrensplace.com:5003/graphql",
+    //   url: "http://localhost:5003/graphql",
     // },
     {
       name: "springboot-inventory",
-      url: "http://dev.childrensplace.com:5004/graphql",
+      url: "http://localhost:5004/graphql",
     },
-    { name: "node-product", url: "http://dev.childrensplace.com:8001/graphql" },
+    { name: "node-product", url: "http://localhost:8001/graphql" },
     // {
     //   name: "node-inventory",
-    //   url: "http://dev.childrensplace.com:8002/graphql",
+    //   url: "http://localhost:8002/graphql",
     // },
   ],
   __exposeQueryPlanExperimental: false,
