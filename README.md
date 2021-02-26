@@ -32,7 +32,7 @@ Gradle > 6.8.3
 2. Terminal 2: `cd sb-inventory && ./gradlew bootrun`
 3. Terminal 3: `cd node-product && npm i && npm start`
 4. Terminal 4: `cd node-inventory && npm i && npm start`
-5. Terminal 5: `cd gateway && npm i && npm start`
+5. Terminal 5: `cd gateway && npm i && npm run start-gateway`
 
 This will run the following servers
 
