@@ -28,11 +28,11 @@ How to run?
 Node >= 12 LTS
 Gradle > 6.8.3
 
-1. Terminal 1: `sb-product/gradlew bootrun`
-2. Terminal 2: `sb-inventory/gradlew bootrun`
-3. Terminal 3: `cd node-product && npm start`
-4. Terminal 4: `cd node-inventory && npm start`
-5. Terminal 5: `cd gateway && npm start`
+1. Terminal 1: `cd sb-product && ./gradlew bootrun`
+2. Terminal 2: `cd sb-inventory && ./gradlew bootrun`
+3. Terminal 3: `cd node-product && npm i && npm start`
+4. Terminal 4: `cd node-inventory && npm i && npm start`
+5. Terminal 5: `cd gateway && npm i && npm start`
 
 This will run the following servers
 
